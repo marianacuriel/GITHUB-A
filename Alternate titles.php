@@ -23,3 +23,5 @@ CREATE TABLE Alternate_Titles
  
  INSERT INTO Alternate_Titles (onet_code, job_title, job_abbreviation, sources)
  VALUES ('11-1011.00', 'Chief Executive Officer (CEO)', 'CEO', '02,04,08');
+
+/*! COMMIT */;
