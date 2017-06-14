@@ -23,3 +23,5 @@ VALUES ('1.A.1.a.4',	'LV',	'4',	'Write a job recommendation for a subordinate');
 
 INSERT INTO Level_Scale_Anchors (position_id, job_id, job_worth, job_description)
 VALUES ('1.A.1.a.4',	'LV',	'1',	'Write a note reminding someone to take food out of the freezer');
+
+/*! COMMIT */;
